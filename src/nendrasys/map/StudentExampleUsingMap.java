@@ -1,6 +1,6 @@
 package nendrasys.map;
 
-import com.nendrasys.filter.Student;
+import nendrasys.filter.Student;
 
 import java.util.ArrayList;
 import java.util.Set;

@@ -1,4 +1,4 @@
-package nendrasys.sum;
+package nendrasys.defaultReductionMethods;
 
 import java.util.Arrays;
 import java.util.List;
