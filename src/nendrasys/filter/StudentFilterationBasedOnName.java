@@ -15,7 +15,7 @@ public class StudentFilterationBasedOnName
         studentArrayList.add(new Student(4, "kumar", 35000));
         studentArrayList.add(new Student(5, "kumar", 25009));
 
-        studentArrayList.stream().filter(a-> a.getName().endsWith("r") && a.getFee()>30000).forEach(System.out::println);
+        studentArrayList.stream().filter(a-> a.getName().endsWith("v") && a.getFee()>30000).forEach(System.out::println);
 
     }
 }
